@@ -1,0 +1,102 @@
+nav{
+display: flex;
+justify-content: space-evenly;
+}
+
+.font{
+    padding: 4%;
+    font-size: xx-large;
+    text-wrap: inherit;
+    
+}
+#team{
+    padding: 3%;
+    background-color:azure;
+    display: flex;
+    justify-content: space-between;
+    font-family: sans-serif;
+    font-size: small;
+}
+
+.main{
+    border-radius: 2p;
+}
+#assist{
+display: flex;
+justify-content: space-between;
+
+
+}
+
+.one{ 
+    box-shadow: 3px 3px 3px 3px;
+     border-radius: 5%;
+    padding: 1%;
+ background-color: azure;
+}
+.two{
+     box-shadow: 3px 3px 3px 3px;
+     border-radius: 5%;
+    padding: 1%;
+    background-color: azure;
+}
+.three{
+     box-shadow: 3px 3px 3px 3px;
+     border-radius: 5%;
+padding: 1%;
+    background-color: azure;
+}
+.four{
+     box-shadow: 3px 3px 3px 3px;
+    border-radius: 5%;
+padding: 1%;
+    background-color: azure;
+}
+#drug{
+background-color: white;
+width: 40%;
+box-shadow:  3px 3px 3px 3px;
+border-radius: 5%;
+padding: 5%;
+
+
+}
+
+img{
+    border-radius: 8%;
+    padding: 2%;
+}
+
+.round{
+    background-color: rgb(3, 90, 3);
+    box-shadow: 3px 3px 3px;
+    }
+
+.btn{
+    background-color: green;
+    width: 40%;
+    color: white;
+font-family: sans-serif;
+font-size:large;
+}
+
+
+.day{
+    color: white;
+    padding: 3%;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+}
+.info{
+    color: white;
+    display: flex;
+    padding: 3%;
+    justify-content: space-evenly;
+    font-size: large;
+}
+a{
+font-size: large;
+color: black;
+text-align: end;
+}
